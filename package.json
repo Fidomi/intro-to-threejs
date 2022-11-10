@@ -1,0 +1,26 @@
+{
+  "name": "intro-to-threejs",
+  "version": "1.0.0",
+  "description": "Essais avec Three.js",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fidomi/intro-to-threejs.git"
+  },
+  "keywords": [
+    "three.js"
+  ],
+  "author": "Fidomi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fidomi/intro-to-threejs/issues"
+  },
+  "homepage": "https://github.com/Fidomi/intro-to-threejs#readme",
+  "dependencies": {
+    "three": "^0.146.0"
+  }
+}
